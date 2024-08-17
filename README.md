@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amiralimohaddes
-- 👀 I’m interested in designing Advanced PCBs and embedded systems programming
+- 👀 I’m interested in embedded systems programming
 
 
 <!---
